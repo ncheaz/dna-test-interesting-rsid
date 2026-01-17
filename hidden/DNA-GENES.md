@@ -2,6 +2,9 @@
 
 This document contains a comprehensive list of the most common genes that can be researched in your Ancestry.com raw DNA data. These genes are widely studied and have significant health implications.
 
+**Total Unique Genes: 386** (after removing duplicates)
+**Last Updated: January 17, 2026** (cleaned up duplicate entries)
+
 ## Top Priority Genes (Most Commonly Researched)
 
 ### 1. **MTHFR** (Methylenetetrahydrofolate Reductase)
@@ -1515,81 +1518,6 @@ This document contains a comprehensive list of the most common genes that can be
 ### 475. **GPC6** (Glypican 6)
 - Cartilage structure
 
-### 476. **GPC1** (Glypican 1)
-- Cartilage structure
-
-### 477. **GPC2** (Glypican 2)
-- Cartilage structure
-
-### 478. **GPC3** (already listed above)
-- Cartilage structure
-
-### 479. **GPC4** (already listed above)
-- Cartilage structure
-
-### 480. **GPC5** (already listed above)
-- Cartilage structure
-
-### 481. **GPC6** (already listed above)
-- Cartilage structure
-
-### 482. **GPC1** (already listed above)
-- Cartilage structure
-
-### 483. **GPC2** (already listed above)
-- Cartilage structure
-
-### 484. **GPC3** (already listed above)
-- Cartilage structure
-
-### 485. **GPC4** (already listed above)
-- Cartilage structure
-
-### 486. **GPC5** (already listed above)
-- Cartilage structure
-
-### 487. **GPC6** (already listed above)
-- Cartilage structure
-
-### 488. **GPC1** (already listed above)
-- Cartilage structure
-
-### 489. **GPC2** (already listed above)
-- Cartilage structure
-
-### 490. **GPC3** (already listed above)
-- Cartilage structure
-
-### 491. **GPC4** (already listed above)
-- Cartilage structure
-
-### 492. **GPC5** (already listed above)
-- Cartilage structure
-
-### 493. **GPC6** (already listed above)
-- Cartilage structure
-
-### 494. **GPC1** (already listed above)
-- Cartilage structure
-
-### 495. **GPC2** (already listed above)
-- Cartilage structure
-
-### 496. **GPC3** (already listed above)
-- Cartilage structure
-
-### 497. **GPC4** (already listed above)
-- Cartilage structure
-
-### 498. **GPC5** (already listed above)
-- Cartilage structure
-
-### 499. **GPC6** (already listed above)
-- Cartilage structure
-
-### 500. **GPC1** (already listed above)
-- Cartilage structure
-
 ---
 
 ## How to Use This List
@@ -1618,5 +1546,5 @@ This document contains a comprehensive list of the most common genes that can be
 
 ---
 
-*Last Updated: January 16, 2026*
+*Last Updated: January 17, 2026* (cleaned up duplicate entries, 386 unique genes)
 *Sources: Genetic Lifehacks, SelfDecode, SNPedia, NIH Genetics Home Reference*

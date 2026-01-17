@@ -2,11 +2,11 @@
 
 ## Summary
 
-Create a comprehensive gene catalog by extracting gene information from [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1) and organizing it into a new directory structure `hidden/important-genes-2/` with YAML files for each gene. This will create a structured, queryable database of 500+ genes with detailed information for research against Ancestry.com raw DNA data.
+Create a comprehensive gene catalog by extracting gene information from [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1) and organizing it into a new directory structure `hidden/important-genes-2/` with YAML files for each gene. This will create a structured, queryable database of 386 unique genes with detailed information for research against Ancestry.com raw DNA data.
 
 ## Motivation
 
-The existing `hidden/important-genes/` directory contains only a small subset of genes (approximately 10-15 YAML files) from the 500+ genes documented in [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1). Creating a complete catalog will process all genes in manageable chunks for piecemeal implementation.
+The `hidden/DNA-GENES.md` file contains a wealth of information about 386 unique genes, but it is currently in a flat Markdown format that is difficult to query or process programmatically. Creating a complete catalog will transform this data into a structured format, processing all genes in manageable chunks for piecemeal implementation.
 
 1. **Provide comprehensive coverage** of all documented genes in a structured format
 2. **Enable efficient lookup** against Ancestry.com raw DNA data for research purposes
@@ -16,7 +16,7 @@ The existing `hidden/important-genes/` directory contains only a small subset of
 
 ## Goals
 
-1. Extract all 500+ genes from [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1) and organize them by category
+1. Extract all 386 unique genes from [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1) and organize them by category
 2. Create directory structure `hidden/important-genes-2/` with category folders (lowercase, hyphenated)
 3. Create YAML files for each gene following the established schema
 4. Research and populate complete gene information using browser MCP when needed
@@ -28,12 +28,11 @@ The existing `hidden/important-genes/` directory contains only a small subset of
 
 1. Creating automated tools for gene lookup (future work)
 2. Integrating with external APIs or databases
-3. Modifying the existing `hidden/important-genes/` directory
-4. Creating web interfaces or visualization tools
+3. Creating web interfaces or visualization tools
 
 ## Success Criteria
 
-- [ ] All 500+ genes from [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1) have corresponding YAML files
+- [ ] All 386 unique genes from [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1) have corresponding YAML files
 - [ ] Directory structure follows the pattern: `hidden/important-genes-2/<category>/<gene-symbol>-<full-name>-<short-description>-<rsid>.yaml`
 - [ ] All YAML files follow the established schema with complete information
 - [ ] Summary file `hidden/SUMMARY-2.md` is created with all gene information
@@ -90,9 +89,10 @@ From [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1), the following categor
 11. **additional-genes-selfdecode** - Additional Genes from SelfDecode's 350+ Gene Reports
 12. **additional-genes-research** - Additional Genes from Research Sources
 
+
 ## YAML Schema
 
-All gene files will follow this schema (based on existing YAML files in `hidden/important-genes/`):
+All gene files will follow this schema:
 
 ```yaml
 ---
@@ -173,26 +173,30 @@ The following decisions have been made and are documented in [`design.md`](./des
 
 5. **Implementation approach**: Process genes in manageable chunks with clear labels for piecemeal implementation. Each chunk will be a discrete, completable unit that can be requested separately.
 
+
+## Implementation Requirements
+
+1. **DNA Test Results**: The request for implementation must point to the DNA test results, which is the ancestry.com DNA test result raw data.
+
 ## Risks and Mitigations
 
 | Risk | Mitigation |
 |------|------------|
-| Context exhaustion due to processing 300+ genes | Compact context after each gene completion |
+| Context exhaustion due to processing 386 genes | Compact context after each gene completion |
 | Incomplete or inaccurate gene information from research | Cross-reference multiple sources (SNPedia, NIH, Genetic Lifehacks) |
 | Inconsistent YAML schema across files | Create a template and validate each file against it |
-| Browser MCP rate limits or unavailability | Have fallback sources (existing YAML files, DNA-GENES.md); implement delay between browser MCP requests (2-3 seconds); cache research results to avoid redundant searches; if rate limit hit, wait and retry; document rate limit errors in gene's `notes` field |
+| Browser MCP rate limits or unavailability | Have fallback sources (DNA-GENES.md); implement delay between browser MCP requests (2-3 seconds); cache research results to avoid redundant searches; if rate limit hit, wait and retry; document rate limit errors in gene's `notes` field |
 | Time required to process all genes | Process genes in batches, prioritize by category importance |
 
 ## Alternatives Considered
 
 1. **Automated script generation**: Could write a script to parse and generate YAML files, but would lack the research depth and accuracy of manual curation
-2. **Using existing important-genes directory**: Could extend existing directory, but would mix old and new formats; creating separate directory allows for clean slate
+2. **Using `hidden/important-genes/` directory**: Could create files in `hidden/important-genes/`, but using a versioned directory `hidden/important-genes-2/` ensures a clean structure without potential conflicts
 3. **Database instead of YAML files**: Could use SQLite or JSON, but YAML files are more human-readable and align with existing project structure
 
 ## Dependencies
 
 - Browser MCP for gene research
-- Existing YAML files in `hidden/important-genes/` as schema reference
 - [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1) as source data
 - [`openspec/AGENTS.md`](../AGENTS.md:1) for proposal conventions
 
@@ -200,15 +204,13 @@ The following decisions have been made and are documented in [`design.md`](./des
 
 - Phase 1 (Analysis): 30 minutes
 - Phase 2 (Directory creation): 10 minutes
-- Phase 3 (Gene file creation): 15-20 hours (500+ genes × 1-2 minutes each)
+- Phase 3 (Gene file creation): 12-15 hours (386 genes × 1-2 minutes each)
 - Phase 4 (Summary creation): 30 minutes
 
-**Total estimated time**: 17-21 hours
+**Total estimated time**: 14-17 hours
 
-**Note**: Due to the large scope (500+ genes), this work will be divided into manageable chunks for piecemeal implementation. Each chunk will be labeled clearly (e.g., "Phase 3a: Top Priority Genes", "Phase 3b: High-Impact Genes", etc.) so that implementation can be requested and completed incrementally.
+**Note**: Due to the large scope (386 unique genes), this work will be divided into manageable chunks for piecemeal implementation. Each chunk will be labeled clearly (e.g., "Phase 3a: Top Priority Genes", "Phase 3b: High-Impact Genes", etc.) so that implementation can be requested and completed incrementally.
 
 ## Related Work
 
-- Existing `hidden/important-genes/` directory with partial gene catalog
-- [`hidden/SUMMARY.md`](../../hidden/SUMMARY.md:1) documenting existing catalog
-- [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1) source document with 500+ genes
+- [`hidden/DNA-GENES.md`](../../hidden/DNA-GENES.md:1) source document with 386 unique genes

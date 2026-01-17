@@ -108,8 +108,8 @@ Implement specific phases independently:
 - Phase 3i: Nutrient Metabolism Genes (7 genes)
 - Phase 3j: Additional Important Genes (12 genes)
 - Phase 3k: Additional Genes from Source.md (~298 genes)
-- Phase 3l: Additional Genes from SelfDecode (~340 genes)
-- Phase 3m: Additional Genes from Research (~100 genes)
+ - Phase 3k: Additional Genes from `hidden/source.md` (remaining genes from the curated source list)
+ - Optional: Additional external gene lists (SelfDecode, research). These are not included in `hidden/DNA-GENES.md` and must be curated before processing.
 
 #### Step 3: Validate the Implementation
 

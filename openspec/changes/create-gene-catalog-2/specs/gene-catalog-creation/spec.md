@@ -243,7 +243,7 @@ This specification relates to:
 - All gene symbols should be validated against standard HGNC nomenclature
 - Category folder names must be lowercase and hyphenated
 - The system should process genes in batches to optimize performance
-- Context compaction is critical for processing 300+ genes without memory exhaustion
+ - Context compaction is critical for processing 386 genes without memory exhaustion
 - Research depth should be tiered based on gene prominence (Tier 1: Top Priority, Tier 2: Health Impact, Tier 3: Additional)
 - File names use standardized long format: `<gene-symbol>-<full-name>-<short-description>-<rsid>.yaml`
   - `<gene-symbol>`: Lowercase gene symbol (e.g., mthfr, apoe, bdnf)

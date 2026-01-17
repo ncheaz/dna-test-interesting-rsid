@@ -374,7 +374,7 @@ gene_description: | (optional, required for Tier 1 genes)
 **Decision**: Aggressive context compaction after each gene
 
 **Rationale**:
-- Processing 300+ genes will exceed context limits
+- Processing 386 genes will exceed context limits
 - Each gene is independent after creation
 - Prevents memory exhaustion during long-running task
 
@@ -447,7 +447,7 @@ gene_description: | (optional, required for Tier 1 genes)
 ### Time Complexity
 - Parsing: O(n) where n = lines in DNA-GENES.md
 - Directory creation: O(c) where c = number of categories (12)
-- Gene file creation: O(g) where g = number of genes (500+)
+- Gene file creation: O(g) where g = number of genes (386)
 - Research: O(g × r) where r = research time per gene (1-2 min)
 
 ### Space Complexity
@@ -456,7 +456,7 @@ gene_description: | (optional, required for Tier 1 genes)
 - Total disk space: O(g × f) where f = average file size (~1KB)
 
 ### Implementation Approach
-Due to the large scope (500+ genes), work will be divided into manageable chunks for piecemeal implementation:
+Due to the scope (386 genes), work will be divided into manageable chunks for piecemeal implementation:
 
 **Chunking Strategy**:
 - **Primary Chunk**: One phase (e.g., Phase 3a = Top Priority Genes, Phase 3b = High-Impact Genes)
@@ -468,7 +468,7 @@ Due to the large scope (500+ genes), work will be divided into manageable chunks
 - Chunks will be labeled clearly (e.g., "Phase 3a: Top Priority Genes", "Phase 3b: High-Impact Genes")
 - Chunks can be requested and implemented independently
 - Each sub-chunk includes context compaction after completion
-- Primary chunks can span multiple sub-chunks (e.g., Phase 3k with 340 genes would have 34 sub-chunks)
+  - Primary chunks can span multiple sub-chunks (e.g., Phase 3k with ~298 genes would have ~30 sub-chunks)
 
 ### Optimization Strategies
 1. Process genes in batches to minimize context switching
