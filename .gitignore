@@ -1,2 +1,4 @@
 /hidden/*
 /dna-test-results/*
+!hidden/DNA-GENES.md
+!hidden/source.md
