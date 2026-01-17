@@ -1,0 +1,2107 @@
+[
+  {
+    "symbol": "MTHFR",
+    "full_name": "Methylenetetrahydrofolate Reductase",
+    "category": "top-priority-genes"
+  },
+  {
+    "symbol": "APOE",
+    "full_name": "Apolipoprotein E",
+    "category": "top-priority-genes"
+  },
+  {
+    "symbol": "FTO",
+    "full_name": "Fat Mass and Obesity-Associated",
+    "category": "top-priority-genes"
+  },
+  {
+    "symbol": "BRCA1",
+    "full_name": "Breast Cancer Genes",
+    "category": "top-priority-genes"
+  },
+  {
+    "symbol": "BRCA2",
+    "full_name": "Breast Cancer Genes",
+    "category": "top-priority-genes"
+  },
+  {
+    "symbol": "COMT",
+    "full_name": "Catechol-O-Methyltransferase",
+    "category": "top-priority-genes"
+  },
+  {
+    "symbol": "CYP2D6",
+    "full_name": "Cytochrome P450 Family 2 Subfamily D Member 6",
+    "category": "high-impact-health-genes"
+  },
+  {
+    "symbol": "CYP2C19",
+    "full_name": "Cytochrome P450 Family 2 Subfamily C Member 19",
+    "category": "high-impact-health-genes"
+  },
+  {
+    "symbol": "VDR",
+    "full_name": "Vitamin D Receptor",
+    "category": "high-impact-health-genes"
+  },
+  {
+    "symbol": "ACE",
+    "full_name": "Angiotensin I Converting Enzyme",
+    "category": "high-impact-health-genes"
+  },
+  {
+    "symbol": "NOS3",
+    "full_name": "Nitric Oxide Synthase 3",
+    "category": "high-impact-health-genes"
+  },
+  {
+    "symbol": "FUT2",
+    "full_name": "Fucosyltransferase 2",
+    "category": "high-impact-health-genes"
+  },
+  {
+    "symbol": "SOD2",
+    "full_name": "Superoxide Dismutase 2",
+    "category": "high-impact-health-genes"
+  },
+  {
+    "symbol": "MAOA",
+    "full_name": "Monoamine Oxidase A",
+    "category": "high-impact-health-genes"
+  },
+  {
+    "symbol": "CYP1A1",
+    "full_name": "Cytochrome P450 Family 1 Subfamily A Member 1",
+    "category": "metabolism-detoxification-genes"
+  },
+  {
+    "symbol": "NAT2",
+    "full_name": "N-Acetyltransferase 2",
+    "category": "metabolism-detoxification-genes"
+  },
+  {
+    "symbol": "GSTP1",
+    "full_name": "Glutathione S-Transferase Pi 1",
+    "category": "metabolism-detoxification-genes"
+  },
+  {
+    "symbol": "ALDH2",
+    "full_name": "Aldehyde Dehydrogenase 2",
+    "category": "metabolism-detoxification-genes"
+  },
+  {
+    "symbol": "PPARG",
+    "full_name": "Peroxisome Proliferator-Activated Receptor Gamma",
+    "category": "metabolism-detoxification-genes"
+  },
+  {
+    "symbol": "UCP1",
+    "full_name": "Uncoupling Protein 1",
+    "category": "metabolism-detoxification-genes"
+  },
+  {
+    "symbol": "SLC2A2",
+    "full_name": "Solute Carrier Family 2 Member 2",
+    "category": "metabolism-detoxification-genes"
+  },
+  {
+    "symbol": "APOA1",
+    "full_name": "Apolipoprotein A1",
+    "category": "cardiovascular-heart-health-genes"
+  },
+  {
+    "symbol": "APOB",
+    "full_name": "Apolipoprotein B",
+    "category": "cardiovascular-heart-health-genes"
+  },
+  {
+    "symbol": "CETP",
+    "full_name": "Cholesteryl Ester Transfer Protein",
+    "category": "cardiovascular-heart-health-genes"
+  },
+  {
+    "symbol": "LPL",
+    "full_name": "Lipoprotein Lipase",
+    "category": "cardiovascular-heart-health-genes"
+  },
+  {
+    "symbol": "PCSK9",
+    "full_name": "Proprotein Convertase Subtilisin/Kexin Type 9",
+    "category": "cardiovascular-heart-health-genes"
+  },
+  {
+    "symbol": "IL1B",
+    "full_name": "Interleukin 1 Beta",
+    "category": "immune-inflammation-genes"
+  },
+  {
+    "symbol": "IL6",
+    "full_name": "Interleukin 6",
+    "category": "immune-inflammation-genes"
+  },
+  {
+    "symbol": "TNF",
+    "full_name": "Tumor Necrosis Factor",
+    "category": "immune-inflammation-genes"
+  },
+  {
+    "symbol": "CRP",
+    "full_name": "C-Reactive Protein",
+    "category": "immune-inflammation-genes"
+  },
+  {
+    "symbol": "HLA-DRB1",
+    "full_name": "Human Leukocyte Antigen DRB1",
+    "category": "immune-inflammation-genes"
+  },
+  {
+    "symbol": "BDNF",
+    "full_name": "Brain-Derived Neurotrophic Factor",
+    "category": "brain-mental-health-genes"
+  },
+  {
+    "symbol": "DRD2",
+    "full_name": "Dopamine Receptor D2",
+    "category": "brain-mental-health-genes"
+  },
+  {
+    "symbol": "5-HTTLPR",
+    "full_name": "Serotonin Transporter",
+    "category": "brain-mental-health-genes"
+  },
+  {
+    "symbol": "CLOCK",
+    "full_name": "Circadian Locomotor Output Cycles Kaput",
+    "category": "sleep-circadian-rhythm-genes"
+  },
+  {
+    "symbol": "PER2",
+    "full_name": "Period Circadian Regulator 2",
+    "category": "sleep-circadian-rhythm-genes"
+  },
+  {
+    "symbol": "MTNR1A",
+    "full_name": "Melatonin Receptors",
+    "category": "sleep-circadian-rhythm-genes"
+  },
+  {
+    "symbol": "MTNR1B",
+    "full_name": "Melatonin Receptors",
+    "category": "sleep-circadian-rhythm-genes"
+  },
+  {
+    "symbol": "ESR1",
+    "full_name": "Estrogen Receptor 1",
+    "category": "hormone-reproductive-health-genes"
+  },
+  {
+    "symbol": "SHBG",
+    "full_name": "Sex Hormone Binding Globulin",
+    "category": "hormone-reproductive-health-genes"
+  },
+  {
+    "symbol": "CYP19A1",
+    "full_name": "Aromatase",
+    "category": "hormone-reproductive-health-genes"
+  },
+  {
+    "symbol": "MTR",
+    "full_name": "Methionine Synthase",
+    "category": "nutrient-metabolism-genes"
+  },
+  {
+    "symbol": "MTRR",
+    "full_name": "Methionine Synthase Reductase",
+    "category": "nutrient-metabolism-genes"
+  },
+  {
+    "symbol": "CBS",
+    "full_name": "Cystathionine Beta-Synthase",
+    "category": "nutrient-metabolism-genes"
+  },
+  {
+    "symbol": "BHMT",
+    "full_name": "Betaine-Homocysteine S-Methyltransferase",
+    "category": "nutrient-metabolism-genes"
+  },
+  {
+    "symbol": "TCN2",
+    "full_name": "Transcobalamin 2",
+    "category": "nutrient-metabolism-genes"
+  },
+  {
+    "symbol": "SLC19A1",
+    "full_name": "Reduced Folate Carrier",
+    "category": "nutrient-metabolism-genes"
+  },
+  {
+    "symbol": "FOLH1",
+    "full_name": "Folate Hydrolase 1",
+    "category": "nutrient-metabolism-genes"
+  },
+  {
+    "symbol": "ADRB2",
+    "full_name": "Beta-2 Adrenergic Receptor",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "ADRB3",
+    "full_name": "Beta-3 Adrenergic Receptor",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "LEPR",
+    "full_name": "Leptin Receptor",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "MC4R",
+    "full_name": "Melanocortin 4 Receptor",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "ADIPOQ",
+    "full_name": "Adiponectin",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "PPARGC1A",
+    "full_name": "PGC-1 Alpha",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "GCKR",
+    "full_name": "Glucokinase Regulator",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "TCF7L2",
+    "full_name": "Transcription Factor 7 Like 2",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "PNPLA3",
+    "full_name": "Patatin-Like Phospholipase Domain Containing 3",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "SLC30A8",
+    "full_name": "Zinc Transporter 8",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "HFE",
+    "full_name": "Homeostatic Iron Regulator",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "TAS2R38",
+    "full_name": "Taste Receptor Type 2 Member 38",
+    "category": "additional-important-genes"
+  },
+  {
+    "symbol": "SOD1",
+    "full_name": "Superoxide Dismutase 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SOD3",
+    "full_name": "Superoxide Dismutase 3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GPX4",
+    "full_name": "Glutathione Peroxidase 4",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CAT",
+    "full_name": "Catalase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GSR",
+    "full_name": "Glutathione Reductase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GCLC",
+    "full_name": "Glutamate-Cysteine Ligase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GCLM",
+    "full_name": "Glutamate-Cysteine Ligase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GSTM1",
+    "full_name": "Glutathione S-Transferase Mu 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GSTM3",
+    "full_name": "Glutathione S-Transferase Mu 3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GSTA1",
+    "full_name": "Glutathione S-Transferase Alpha 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "UGT1A1",
+    "full_name": "UDP-Glucuronosyltransferase 1-1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "UGT2B15",
+    "full_name": "UDP-Glucuronosyltransferase 2B15",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP2C9",
+    "full_name": "Cytochrome P450 Family 2 Subfamily C Member 9",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP2A6",
+    "full_name": "Cytochrome P450 Family 2 Subfamily A Member 6",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP3A4",
+    "full_name": "Cytochrome P450 Family 3 Subfamily A Member 4",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP3A5",
+    "full_name": "Cytochrome P450 Family 3 Subfamily A Member 5",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP2B6",
+    "full_name": "Cytochrome P450 Family 2 Subfamily B Member 6",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP4A11",
+    "full_name": "Cytochrome P450 Family 4 Subfamily A Member 11",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP4F2",
+    "full_name": "Cytochrome P450 Family 4 Subfamily F Member 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ABCB1",
+    "full_name": "ATP Binding Cassette Subfamily B Member 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLCO1B1",
+    "full_name": "Solute Carrier Organic Anion Transporter Family Member 1B1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TPMT",
+    "full_name": "Thiopurine S-Methyltransferase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DPYD",
+    "full_name": "Dihydropyrimidine Dehydrogenase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NUDT15",
+    "full_name": "Nudix Hydrolase 15",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC6A4",
+    "full_name": "Serotonin Transporter",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC6A3",
+    "full_name": "Dopamine Transporter",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC18A1",
+    "full_name": "Vesicular Monoamine Transporter 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC18A2",
+    "full_name": "Vesicular Monoamine Transporter 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC23A1",
+    "full_name": "Vitamin C Transporter",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC16A1",
+    "full_name": "Monocarboxylate Transporter 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC2A14",
+    "full_name": "Glucose Transporter",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC4A5",
+    "full_name": "Sodium Bicarbonate Transporter",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC6A2",
+    "full_name": "Norepinephrine Transporter",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HTR1A",
+    "full_name": "Serotonin Receptor 1A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HTR2A",
+    "full_name": "Serotonin Receptor 2A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HTR2C",
+    "full_name": "Serotonin Receptor 2C",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HTR3A",
+    "full_name": "Serotonin Receptor 3A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ADRA1A",
+    "full_name": "Adrenergic Receptor Alpha 1A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ADRA2A",
+    "full_name": "Adrenergic Receptor Alpha 2A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ADRB1",
+    "full_name": "Beta-1 Adrenergic Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CHRNA4",
+    "full_name": "Nicotinic Acetylcholine Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CHRNA5",
+    "full_name": "Nicotinic Acetylcholine Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DRD3",
+    "full_name": "Dopamine Receptor D3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GAD1",
+    "full_name": "Glutamate Decarboxylase 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GABA-A",
+    "full_name": "GABA Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GRIN",
+    "full_name": "Glutamate Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GRIA3",
+    "full_name": "Glutamate Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DISC1",
+    "full_name": "Disrupted in Schizophrenia 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ANK3",
+    "full_name": "Ankyrin 3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CACNA1C",
+    "full_name": "Calcium Channel",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "MAOB",
+    "full_name": "Monoamine Oxidase B",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "FAAH",
+    "full_name": "Fatty Acid Amide Hydrolase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CNR1",
+    "full_name": "Cannabinoid Receptor 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CNR2",
+    "full_name": "Cannabinoid Receptor 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "OXTR",
+    "full_name": "Oxytocin Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "AVPR1A",
+    "full_name": "Vasopressin Receptor 1A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CRHR1",
+    "full_name": "Corticotropin-Releasing Hormone Receptor 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CRHR2",
+    "full_name": "Corticotropin-Releasing Hormone Receptor 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NR3C1",
+    "full_name": "Glucocorticoid Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "FKBP5",
+    "full_name": "FK506 Binding Protein 5",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC6A15",
+    "full_name": "Neutral Amino Acid Transporter",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TPH2",
+    "full_name": "Tryptophan Hydroxylase 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "AANAT",
+    "full_name": "Aralkylamine N-Acetyltransferase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ASMT",
+    "full_name": "Acetylserotonin O-Methyltransferase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CRY2",
+    "full_name": "Cryptochrome 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ARNTL",
+    "full_name": "Aryl Hydrocarbon Receptor Nuclear Translocator Like",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NPAS2",
+    "full_name": "Neuronal PAS Domain Protein 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "BHLHE41",
+    "full_name": "Basic Helix-Loop-Helix Family Member E41",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DEC2",
+    "full_name": "Basic Helix-Loop-Helix Family Member E41",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ADA",
+    "full_name": "Adenosine Deaminase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ADORA2A",
+    "full_name": "Adenosine A2a Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CD36",
+    "full_name": "Fatty Acid Translocase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "FADS1/2",
+    "full_name": "Fatty Acid Desaturases",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "FABP2",
+    "full_name": "Fatty Acid Binding Protein 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SCD",
+    "full_name": "Stearoyl-CoA Desaturase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "APOA5",
+    "full_name": "Apolipoprotein A5",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "APOC3",
+    "full_name": "Apolipoprotein C3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "LIPC",
+    "full_name": "Hepatic Lipase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "LPA",
+    "full_name": "Lipoprotein(a",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "LDLR",
+    "full_name": "LDL Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SORT1",
+    "full_name": "Sortilin 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "PSRC1",
+    "full_name": "Proline and Serine Rich Coiled-Coil 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CELSR2",
+    "full_name": "Cadherin EGF LAG Seven-Pass G-Type Receptor 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HMGCR",
+    "full_name": "HMG-CoA Reductase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ABO",
+    "full_name": "Blood Group Antigen",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "MUC1",
+    "full_name": "Mucin 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CUBN",
+    "full_name": "Cubilin",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "MCM6",
+    "full_name": "Minichromosome Maintenance Complex Component 6",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "LCT",
+    "full_name": "Lactase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SI",
+    "full_name": "Sucrase-Isomaltase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "AMY1A",
+    "full_name": "Amylase 1A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ALDOB",
+    "full_name": "Aldolase B",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ALDH1B1",
+    "full_name": "Aldehyde Dehydrogenase 1B1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ALAD",
+    "full_name": "Aminolevulinic Acid Dehydratase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "BCHE",
+    "full_name": "Butyrylcholinesterase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CHDH",
+    "full_name": "Choline Dehydrogenase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DAO",
+    "full_name": "Diamine Oxidase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HNMT",
+    "full_name": "Histamine N-Methyltransferase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HDC",
+    "full_name": "Histidine Decarboxylase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HRH1",
+    "full_name": "Histamine Receptor H1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HRH2",
+    "full_name": "Histamine Receptor H2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HRH4",
+    "full_name": "Histamine Receptor H4",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TAS2R16",
+    "full_name": "Taste Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "OR6A2",
+    "full_name": "Olfactory Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "MC1R",
+    "full_name": "Melanocortin 1 Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HERC2",
+    "full_name": "HECT and RLD Domain Containing E3 Ubiquitin Protein Ligase 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "OCA2",
+    "full_name": "Oculocutaneous Albinism II",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC45A2",
+    "full_name": "Solute Carrier Family 45 Member 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TYR",
+    "full_name": "Tyrosinase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "COL1A1",
+    "full_name": "Collagen Type I Alpha 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "COL5A1",
+    "full_name": "Collagen Type V Alpha 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "VWF",
+    "full_name": "Von Willebrand Factor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "F5",
+    "full_name": "Coagulation Factor V",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "F2",
+    "full_name": "Prothrombin",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "MTHFD1",
+    "full_name": "Methylenetetrahydrofolate Dehydrogenase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "MTHFD1L",
+    "full_name": "Methylenetetrahydrofolate Dehydrogenase Like",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "MTHFS",
+    "full_name": "Methenyltetrahydrofolate Synthetase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DHFR",
+    "full_name": "Dihydrofolate Reductase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SHMT1",
+    "full_name": "Serine Hydroxymethyltransferase 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "AHCY",
+    "full_name": "Adenosylhomocysteinase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GNMT",
+    "full_name": "Glycine N-Methyltransferase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "MAT1A",
+    "full_name": "Methionine Adenosyltransferase 1A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "PEMT",
+    "full_name": "Phosphatidylethanolamine N-Methyltransferase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CHKA",
+    "full_name": "Choline Kinase Alpha",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CHKB",
+    "full_name": "Choline Kinase Beta",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CTH",
+    "full_name": "Cystathionine Gamma-Lyase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SUOX",
+    "full_name": "Sulfite Oxidase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GRHPR",
+    "full_name": "Glyoxylate Reductase/Hydroxypyruvate Reductase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "AGXT",
+    "full_name": "Alanine-Glyoxylate Aminotransferase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HOGA1",
+    "full_name": "4-Hydroxy-2-Oxoglutarate Aldolase 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC22A5",
+    "full_name": "Carnitine Transporter",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC25A20",
+    "full_name": "Carnitine/Acylcarnitine Translocase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CPT1A",
+    "full_name": "Carnitine Palmitoyltransferase 1A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CPT2",
+    "full_name": "Carnitine Palmitoyltransferase 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ACADVL",
+    "full_name": "Acyl-CoA Dehydrogenase Very Long Chain",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ACADM",
+    "full_name": "Acyl-CoA Dehydrogenase Medium Chain",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HADHA",
+    "full_name": "Hydroxyacyl-CoA Dehydrogenase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HADHB",
+    "full_name": "Hydroxyacyl-CoA Dehydrogenase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "PPARA",
+    "full_name": "Peroxisome Proliferator-Activated Receptor Alpha",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "PPARD",
+    "full_name": "Peroxisome Proliferator-Activated Receptor Delta",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "UCP2",
+    "full_name": "Uncoupling Protein 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "UCP3",
+    "full_name": "Uncoupling Protein 3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TFAM",
+    "full_name": "Mitochondrial Transcription Factor A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "POLG",
+    "full_name": "DNA Polymerase Gamma",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TERT",
+    "full_name": "Telomerase Reverse Transcriptase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TERC",
+    "full_name": "Telomerase RNA Component",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SIRT1",
+    "full_name": "Sirtuin 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SIRT3",
+    "full_name": "Sirtuin 3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "FOXO1",
+    "full_name": "Forkhead Box O1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "FOXO3",
+    "full_name": "Forkhead Box O3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IGF1R",
+    "full_name": "Insulin-Like Growth Factor 1 Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "INSIG2",
+    "full_name": "Insulin Induced Gene 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IRS1",
+    "full_name": "Insulin Receptor Substrate 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "AKT1",
+    "full_name": "AKT Serine/Threonine Kinase 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GHR",
+    "full_name": "Growth Hormone Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IGF1",
+    "full_name": "Insulin-Like Growth Factor 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GIPR",
+    "full_name": "Gastric Inhibitory Polypeptide Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GLUL",
+    "full_name": "Glutamine Synthetase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "KCNJ11",
+    "full_name": "Potassium Channel",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ABCC8",
+    "full_name": "ATP Binding Cassette Subfamily C Member 8",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HNF4A",
+    "full_name": "Hepatocyte Nuclear Factor 4 Alpha",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HNF1A",
+    "full_name": "Hepatocyte Nuclear Factor 1 Alpha",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TCF1",
+    "full_name": "Transcription Factor 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "WFS1",
+    "full_name": "Wolfram Syndrome 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "PDXK",
+    "full_name": "Pyridoxal Kinase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TYMS",
+    "full_name": "Thymidylate Synthetase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP1A2",
+    "full_name": "Cytochrome P450 Family 1 Subfamily A Member 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP1B1",
+    "full_name": "Cytochrome P450 Family 1 Subfamily B Member 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP2E1",
+    "full_name": "Cytochrome P450 Family 2 Subfamily E Member 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ADH1B",
+    "full_name": "Alcohol Dehydrogenase 1B",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ADH1C",
+    "full_name": "Alcohol Dehydrogenase 1C",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GSTT1",
+    "full_name": "Glutathione S-Transferase Theta 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NQO1",
+    "full_name": "NAD(P",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "EPHX1",
+    "full_name": "Epoxide Hydrolase 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "EPHX2",
+    "full_name": "Epoxide Hydrolase 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "PON1",
+    "full_name": "Paraoxonase 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ABCC1",
+    "full_name": "ATP Binding Cassette Subfamily C Member 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ABCC2",
+    "full_name": "ATP Binding Cassette Subfamily C Member 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLCO1B3",
+    "full_name": "Solute Carrier Organic Anion Transporter",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC22A1",
+    "full_name": "Organic Cation Transporter 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC22A2",
+    "full_name": "Organic Cation Transporter 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC22A6",
+    "full_name": "Organic Anion Transporter",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC47A1",
+    "full_name": "Multidrug And Toxin Extrusion Protein 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC47A2",
+    "full_name": "Multidrug And Toxin Extrusion Protein 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "VKORC1",
+    "full_name": "Vitamin K Epoxide Reductase Complex Subunit 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP4V2",
+    "full_name": "Cytochrome P450 Family 4 Subfamily V Member 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GGCX",
+    "full_name": "Gamma-Glutamyl Carboxylase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "F13A1",
+    "full_name": "Coagulation Factor XIII A1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ITGB3",
+    "full_name": "Integrin Beta 3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GP1BA",
+    "full_name": "Glycoprotein Ib Alpha",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TF",
+    "full_name": "Transferrin",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TFRC",
+    "full_name": "Transferrin Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TFR2",
+    "full_name": "Transferrin Receptor 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TMPRSS6",
+    "full_name": "Transmembrane Serine Protease 6",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "FPN1",
+    "full_name": "Ferroportin 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HAMP",
+    "full_name": "Hepcidin Antimicrobial Peptide",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "BMP6",
+    "full_name": "Bone Morphogenetic Protein 6",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HJV",
+    "full_name": "Hemojuvelin",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "SLC40A1",
+    "full_name": "Solute Carrier Family 40 Member 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP27B1",
+    "full_name": "Cytochrome P450 Family 27 Subfamily B Member 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP24A1",
+    "full_name": "Cytochrome P450 Family 24 Subfamily A Member 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GC",
+    "full_name": "Vitamin D Binding Protein",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DHCR7",
+    "full_name": "7-Dehydrocholesterol Reductase",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CYP2R1",
+    "full_name": "Cytochrome P450 Family 2 Subfamily R Member 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "RORA",
+    "full_name": "RAR Related Orphan Receptor A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NR1D1",
+    "full_name": "Nuclear Receptor Subfamily 1 Group D Member 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NR1D2",
+    "full_name": "Nuclear Receptor Subfamily 1 Group D Member 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DBP",
+    "full_name": "D-Binding Protein",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "PER1",
+    "full_name": "Period Circadian Regulator 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "PER3",
+    "full_name": "Period Circadian Regulator 3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TIMELESS",
+    "full_name": "Timeless Circadian Regulator",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CK1\u03b4",
+    "full_name": "Casein Kinase 1 Delta",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CK1\u03b5",
+    "full_name": "Casein Kinase 1 Epsilon",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "BMAL1",
+    "full_name": "Brain and Muscle ARNT-Like 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DEC1",
+    "full_name": "Basic Helix-Loop-Helix Family Member E40",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "REV-ERB\u03b1",
+    "full_name": "Nuclear Receptor Subfamily 1 Group D Member 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "REV-ERB\u03b2",
+    "full_name": "Nuclear Receptor Subfamily 1 Group D Member 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ROR\u03b1",
+    "full_name": "RAR Related Orphan Receptor A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ROR\u03b3",
+    "full_name": "RAR Related Orphan Receptor Gamma",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NF-\u03baB",
+    "full_name": "Nuclear Factor Kappa B",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NFKB1",
+    "full_name": "Nuclear Factor Kappa B Subunit 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NFKBIA",
+    "full_name": "NFKB Inhibitor Alpha",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NFKBIL1",
+    "full_name": "NFKB Inhibitor Like 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NLRP3",
+    "full_name": "NLR Family Pyrin Domain Containing 3",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL1A",
+    "full_name": "Interleukin 1 Alpha",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL1RN",
+    "full_name": "Interleukin 1 Receptor Antagonist",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL2",
+    "full_name": "Interleukin 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL4",
+    "full_name": "Interleukin 4",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL5",
+    "full_name": "Interleukin 5",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL8",
+    "full_name": "Interleukin 8",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL10",
+    "full_name": "Interleukin 10",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL12",
+    "full_name": "Interleukin 12",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL17",
+    "full_name": "Interleukin 17",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL18",
+    "full_name": "Interleukin 18",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IL23",
+    "full_name": "Interleukin 23",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IFNG",
+    "full_name": "Interferon Gamma",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TNFA",
+    "full_name": "Tumor Necrosis Factor Alpha",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TNFB",
+    "full_name": "Tumor Necrosis Factor Beta",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TNFSF15",
+    "full_name": "TNF Superfamily Member 15",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TNFSF9",
+    "full_name": "TNF Superfamily Member 9",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TLR4",
+    "full_name": "Toll Like Receptor 4",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TLR7",
+    "full_name": "Toll Like Receptor 7",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TLR9",
+    "full_name": "Toll Like Receptor 9",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NOD2",
+    "full_name": "Nucleotide Binding Oligomerization Domain Containing 2",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CARD9",
+    "full_name": "Caspase Recruitment Domain Family Member 9",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ATG16L1",
+    "full_name": "Autophagy Related 16 Like 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "IRGM",
+    "full_name": "Immunity Related GTPase M",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HLA-A",
+    "full_name": "Human Leukocyte Antigen A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HLA-B",
+    "full_name": "Human Leukocyte Antigen B",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HLA-C",
+    "full_name": "Human Leukocyte Antigen C",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HLA-DQ",
+    "full_name": "Human Leukocyte Antigen DQ",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HLA-DR",
+    "full_name": "Human Leukocyte Antigen DR",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HLA-DP",
+    "full_name": "Human Leukocyte Antigen DP",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "KIR",
+    "full_name": "Killer Cell Immunoglobulin Like Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CTLA4",
+    "full_name": "Cytotoxic T-Lymphocyte Associated Protein 4",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "PDCD1",
+    "full_name": "Programmed Cell Death 1",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CD28",
+    "full_name": "CD28 Molecule",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CD80",
+    "full_name": "CD80 Molecule",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CD86",
+    "full_name": "CD86 Molecule",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CD40",
+    "full_name": "CD40 Molecule",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CD40LG",
+    "full_name": "CD40 Ligand",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "ICOS",
+    "full_name": "Inducible T-Cell Costimulator",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "OX40",
+    "full_name": "TNFRSF4",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "OX40L",
+    "full_name": "TNFSF4",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "4-1BB",
+    "full_name": "TNFRSF9",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "4-1BBL",
+    "full_name": "TNFSF9",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GITR",
+    "full_name": "TNFRSF18",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "GITRL",
+    "full_name": "TNFSF18",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CD27",
+    "full_name": "CD27 Molecule",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CD70",
+    "full_name": "CD70 Molecule",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CD30",
+    "full_name": "TNFRSF8",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "CD30L",
+    "full_name": "TNFSF8",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HVEM",
+    "full_name": "TNFRSF14",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "LIGHT",
+    "full_name": "TNFSF14",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "BAFF",
+    "full_name": "TNFSF13B",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "BAFFR",
+    "full_name": "TNFRSF13C",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "APRIL",
+    "full_name": "TNFSF13",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TACI",
+    "full_name": "TNFRSF13B",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "BCMA",
+    "full_name": "TNFRSF17",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "RANK",
+    "full_name": "TNFRSF11A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "RANKL",
+    "full_name": "TNFSF11",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "OPG",
+    "full_name": "TNFRSF11B",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "EDAR",
+    "full_name": "Ectodysplasin A Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "EDA",
+    "full_name": "Ectodysplasin A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "XEDAR",
+    "full_name": "TNFRSF27",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TROY",
+    "full_name": "TNFRSF19",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DR3",
+    "full_name": "TNFRSF25",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TL1A",
+    "full_name": "TNFSF15",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "DR6",
+    "full_name": "TNFRSF21",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "TWEAK",
+    "full_name": "TNFSF12",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "Fn14",
+    "full_name": "TNFRSF12A",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "NGFR",
+    "full_name": "Nerve Growth Factor Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "p75NTR",
+    "full_name": "TNFRSF16",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "LTA",
+    "full_name": "Lymphotoxin Alpha",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "LTB",
+    "full_name": "Lymphotoxin Beta",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "LTBR",
+    "full_name": "Lymphotoxin Beta Receptor",
+    "category": "additional-genes-selfdecode"
+  },
+  {
+    "symbol": "HBB",
+    "full_name": "Hemoglobin Beta",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "HBA1",
+    "full_name": "Hemoglobin Alpha 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "HBA2",
+    "full_name": "Hemoglobin Alpha 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "G6PD",
+    "full_name": "Glucose-6-Phosphate Dehydrogenase",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "PKLR",
+    "full_name": "Pyruvate Kinase Liver and Red Blood Cell",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "ALAS2",
+    "full_name": "Aminolevulinic Acid Synthase 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "SLC25A38",
+    "full_name": "Mitochondrial Carrier Family",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "SMAD4",
+    "full_name": "SMAD Family Member 4",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "SMAD2",
+    "full_name": "SMAD Family Member 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "SMAD3",
+    "full_name": "SMAD Family Member 3",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "TGFBR1",
+    "full_name": "TGF Beta Receptor 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "TGFBR2",
+    "full_name": "TGF Beta Receptor 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL1A2",
+    "full_name": "Collagen Type I Alpha 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL3A1",
+    "full_name": "Collagen Type III Alpha 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL5A2",
+    "full_name": "Collagen Type V Alpha 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL6A1",
+    "full_name": "Collagen Type VI Alpha 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL6A2",
+    "full_name": "Collagen Type VI Alpha 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL6A3",
+    "full_name": "Collagen Type VI Alpha 3",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL12A1",
+    "full_name": "Collagen Type XII Alpha 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL14A1",
+    "full_name": "Collagen Type XIV Alpha 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "ELN",
+    "full_name": "Elastin",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "FBN1",
+    "full_name": "Fibrillin 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "FBN2",
+    "full_name": "Fibrillin 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "LOX",
+    "full_name": "Lysyl Oxidase",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "PLOD1",
+    "full_name": "Procollagen-Lysine 2-Oxoglutarate 5-Dioxygenase 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "PLOD2",
+    "full_name": "Procollagen-Lysine 2-Oxoglutarate 5-Dioxygenase 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "PLOD3",
+    "full_name": "Procollagen-Lysine 2-Oxoglutarate 5-Dioxygenase 3",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "MMP1",
+    "full_name": "Matrix Metallopeptidase 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "MMP2",
+    "full_name": "Matrix Metallopeptidase 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "MMP3",
+    "full_name": "Matrix Metallopeptidase 3",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "MMP9",
+    "full_name": "Matrix Metallopeptidase 9",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "TIMP1",
+    "full_name": "TIMP Metallopeptidase Inhibitor 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "TIMP2",
+    "full_name": "TIMP Metallopeptidase Inhibitor 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "TIMP3",
+    "full_name": "TIMP Metallopeptidase Inhibitor 3",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "TIMP4",
+    "full_name": "TIMP Metallopeptidase Inhibitor 4",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "ADAMTS5",
+    "full_name": "ADAM Metallopeptidase With Thrombospondin Motifs 5",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "ADAMTS4",
+    "full_name": "ADAM Metallopeptidase With Thrombospondin Motifs 4",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COMP",
+    "full_name": "Cartilage Oligomeric Matrix Protein",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL2A1",
+    "full_name": "Collagen Type II Alpha 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL9A1",
+    "full_name": "Collagen Type IX Alpha 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL9A2",
+    "full_name": "Collagen Type IX Alpha 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL9A3",
+    "full_name": "Collagen Type IX Alpha 3",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL10A1",
+    "full_name": "Collagen Type X Alpha 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL11A1",
+    "full_name": "Collagen Type XI Alpha 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "COL11A2",
+    "full_name": "Collagen Type XI Alpha 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "MATN3",
+    "full_name": "Matrilin 3",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "ACAN",
+    "full_name": "Aggrecan",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "LUM",
+    "full_name": "Lumican",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "DCN",
+    "full_name": "Decorin",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "BGN",
+    "full_name": "Biglycan",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "FMOD",
+    "full_name": "Fibromodulin",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "PRELP",
+    "full_name": "Proline Arginine Rich End Leucine Rich Repeat Protein",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "CHAD",
+    "full_name": "Chondroadherin",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "CILP",
+    "full_name": "Cartilage Intermediate Layer Protein",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "CILP2",
+    "full_name": "Cartilage Intermediate Layer Protein 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "ASPN",
+    "full_name": "Asporin",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "SMOC2",
+    "full_name": "SPARC Related Modular Calcium Binding 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "SMOC3",
+    "full_name": "SPARC Related Modular Calcium Binding 3",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "SPOCK1",
+    "full_name": "SPARC/Osteonectin, CWCV, and Kazal-like Domains Proteoglycan 1",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "SPOCK2",
+    "full_name": "SPARC/Osteonectin, CWCV, and Kazal-like Domains Proteoglycan 2",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "SPOCK3",
+    "full_name": "SPARC/Osteonectin, CWCV, and Kazal-like Domains Proteoglycan 3",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "GPC3",
+    "full_name": "Glypican 3",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "GPC4",
+    "full_name": "Glypican 4",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "GPC5",
+    "full_name": "Glypican 5",
+    "category": "additional-genes-from-research-sources"
+  },
+  {
+    "symbol": "GPC6",
+    "full_name": "Glypican 6",
+    "category": "additional-genes-from-research-sources"
+  }
+]
