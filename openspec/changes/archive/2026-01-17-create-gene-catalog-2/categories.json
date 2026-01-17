@@ -1,0 +1,77 @@
+{
+  "Top Priority Genes": {
+    "name": "Top Priority Genes",
+    "folder": "top-priority-genes",
+    "genes": []
+  },
+  "High-Impact Health Genes": {
+    "name": "High-Impact Health Genes",
+    "folder": "high-impact-health-genes",
+    "genes": []
+  },
+  "Metabolism & Detoxification Genes": {
+    "name": "Metabolism & Detoxification Genes",
+    "folder": "metabolism-detoxification-genes",
+    "genes": []
+  },
+  "Cardiovascular & Heart Health Genes": {
+    "name": "Cardiovascular & Heart Health Genes",
+    "folder": "cardiovascular-heart-health-genes",
+    "genes": []
+  },
+  "Immune & Inflammation Genes": {
+    "name": "Immune & Inflammation Genes",
+    "folder": "immune-inflammation-genes",
+    "genes": []
+  },
+  "Brain & Mental Health Genes": {
+    "name": "Brain & Mental Health Genes",
+    "folder": "brain-mental-health-genes",
+    "genes": []
+  },
+  "Sleep & Circadian Rhythm Genes": {
+    "name": "Sleep & Circadian Rhythm Genes",
+    "folder": "sleep-circadian-rhythm-genes",
+    "genes": []
+  },
+  "Hormone & Reproductive Health Genes": {
+    "name": "Hormone & Reproductive Health Genes",
+    "folder": "hormone-reproductive-health-genes",
+    "genes": []
+  },
+  "Nutrient Metabolism Genes": {
+    "name": "Nutrient Metabolism Genes",
+    "folder": "nutrient-metabolism-genes",
+    "genes": []
+  },
+  "Additional Important Genes": {
+    "name": "Additional Important Genes",
+    "folder": "additional-important-genes",
+    "genes": []
+  },
+  "Additional Genes from SelfDecode's 350+ Gene Reports": {
+    "name": "Additional Genes from SelfDecode's 350+ Gene Reports",
+    "folder": "additional-genes-selfdecode",
+    "genes": []
+  },
+  "Additional Genes from Research Sources": {
+    "name": "Additional Genes from Research Sources",
+    "folder": "additional-genes-from-research-sources",
+    "genes": []
+  },
+  "How to Use This List": {
+    "name": "How to Use This List",
+    "folder": "how-to-use-this-list",
+    "genes": []
+  },
+  "Important Notes": {
+    "name": "Important Notes",
+    "folder": "important-notes",
+    "genes": []
+  },
+  "Resources for Further Research": {
+    "name": "Resources for Further Research",
+    "folder": "resources-for-further-research",
+    "genes": []
+  }
+}
